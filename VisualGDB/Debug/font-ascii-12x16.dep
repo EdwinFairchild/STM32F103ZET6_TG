@@ -1,0 +1,5 @@
+VisualGDB/Debug/font-ascii-12x16.o: \
+ F:/STM32_COMM_LIBS/tft_fontz/font-ascii-12x16.c \
+ F:/STM32_COMM_LIBS/tft_fontz/font-ascii-12x16.h
+
+F:/STM32_COMM_LIBS/tft_fontz/font-ascii-12x16.h:
