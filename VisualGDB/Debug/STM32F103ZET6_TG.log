@@ -1,5 +1,5 @@
 ﻿  STM32F103ZET6_TG.c
   Linking VisualGDB/Debug/STM32F103ZET6_TG...
   ------------------- Memory utilization report -------------------
-  Used FLASH: 5096 bytes out of 512KB (0%)
-  Used SRAM: 164 bytes out of 64KB (0%)
+  Used FLASH: 5116 bytes out of 512KB (0%) [-8]
+  Used SRAM: 40 bytes out of 64KB (0%)
